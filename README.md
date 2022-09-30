@@ -12,5 +12,4 @@ running steps :
   5) Place the video you want to use in the "original_video" folder , use only one video at a time (The results will be placed in "new_video" folder that will be created by the program)
   6) Run the main.py and choose relevant actions from the menu. (Use numbers only from the menu)
 
-To download the model file click here : https://drive.google.com/file/d/1po2zanmaV3kNWADz3qwVs6UtKUmbXbwi/view?usp=sharing
 
